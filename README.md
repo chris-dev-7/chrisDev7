@@ -1,5 +1,5 @@
-# 💫 About Me:
-I’m a self-taught software developer ( + dogMom) based in sunny Los Angeles, CA, driven by creativity and a passion for building engaging digital experiences that elevate the world.<br><br>Whether it's bringing bold ideas to life or finding innovative solutions to challenges, I'm all about creating something extraordinary. I'm constantly working on my technical skill while exploring new technologies and pushing my skills to the next level.<br><br> Collaboration is my superpower! I’m always excited to team up on creative projects, whether it’s a sleek web app, an experimental design, or something completely out-of-the-box.
+# ✨ About Me:
+I’m a self-taught software developer ( + dogMom) based in sunny Los Angeles, CA, driven by creativity and a passion for building engaging digital experiences that elevate the world.<br><br>Whether it's bringing daring ideas to life or finding innovative solutions to challenges, I'm all about creating something extraordinary. I'm constantly working on my technical skill while exploring new technologies and pushing my skills to the next level.<br><br> Collaboration is my superpower! I’m always excited to team up on creative projects, whether it’s a sleek web app, an experimental design, or something completely out-of-the-box.
 
 
 # 💻 Tech Stack:
